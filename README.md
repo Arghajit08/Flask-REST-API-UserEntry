@@ -25,7 +25,6 @@ ALTER TABLE `emp`
 python3 main.py
 ```
 
-#Then all APIs can be used like:-
 
 ### 1.View all user data: http://localhost:5000/emp
 ### 2.View particular user data: http://localhost:5000/emp/{id}
